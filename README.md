@@ -5,7 +5,7 @@
   Passionate about building AI-powered solutions, automating workflows, and exploring the latest advancements in Generative AI and Data Science.
 </p>
 
-- 🌱 Currently learning **Generative AI, Agentic AI, LangChain, Docker, GitHub Copilot and Gemini CLI**
+- 🌱 Currently learning **Generative AI, Agentic AI, LangChain, GitHub Copilot and Gemini CLI**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Science and Workflow Automation**
 - 💻 Built AI-powered projects and workflows using Python and Jupyter Notebook
 - 📫 Reach me on LinkedIn
